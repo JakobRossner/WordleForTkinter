@@ -43,11 +43,6 @@ Contributors names and contact info
 
 ## Version History
 
-* 0.2
-    * 
-    * 
-* 0.1
-    * 
 
 ## License
 
