@@ -1,7 +1,0 @@
-Word has to be 5 character long
-A correct letter turns green
-A correct letter in the wrong position turns yellow
-Incorrect letter turns grey
-Letters can be used more than once
-Input field needs to be restricted to 6 characters max
-Special characters should be disabled
