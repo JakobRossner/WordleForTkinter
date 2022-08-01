@@ -39,7 +39,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. [@jakob_rossner](https://twitter.com/jakob_rossner)
+[@jakob_rossner](https://twitter.com/jakob_rossner)
 
 ## Version History
 
